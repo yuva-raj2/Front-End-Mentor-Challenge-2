@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(255, 255, 68);
+}
+.header{
+  background-color: white;
+  margin:2rem 25rem;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  width: 22%;
+  border-radius: 25px;
+}
+button{
+  background-color: rgb(255, 255, 68);
+  color: black;
+  border: unset;
+}
+.footer-1{
+  display: flex;
+}
+.image-avatar-content{
+  margin-left:  1rem;
+}
